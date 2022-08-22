@@ -16,7 +16,8 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/a" />
+        app:srcCompat="@drawable/a"
+        android:contentDescription="@string/todo" />
 
     <TextView
         android:id="@+id/textViewDetail"
@@ -24,7 +25,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="20dp"
         android:layout_marginTop="16dp"
-        android:text="lorem"
+        android:text="@string/lorem"
         android:fontFamily="@font/averia_libre_light"
         android:textColor="@color/black"
         android:textSize="24sp"

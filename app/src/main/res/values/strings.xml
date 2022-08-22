@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">RecyclerClickListener</string>
+    <string name="todo">TODO</string>
+    <string name="example">ต้มจืด</string>
+    <string name="lorem">lorem</string>
 </resources>
